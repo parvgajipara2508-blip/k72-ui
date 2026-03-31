@@ -9,7 +9,7 @@ const HomeHeroText = () => {
             </div>
             <div className='text-[9.5vw] flex justify-center items-center uppercase leading-[9vw]'>
                 qui
-                <div className='h-[7vw] w-[16vw] rounded-full overflow-hidden  mx-3  '>
+                <div className='h-[7vw] w-[16vw]  rounded-full overflow-hidden  mx-3  '>
                     <HomeVideo />
                 </div>
                 génère
