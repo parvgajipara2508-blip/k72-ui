@@ -24,7 +24,10 @@ const Navbar = () => {
                 <div ref={navGreenRef} className='bg-[#D3FD50] transition-all absolute top-0 h-0 w-full'>
 
                 </div>
-                <div className='relative'></div>
+                <div className='  relative h-full px-16 flex flex-col gap-2 justify-center items-end'>
+                    <div className='w-20 h-0.5 bg-white'></div>
+                    <div className='w-16 h-0.5 bg-white'></div>
+                </div>
             </div>
         </div>
     )
